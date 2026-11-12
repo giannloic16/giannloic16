@@ -1,16 +1,37 @@
-## Hi there 👋
+Bonjour 👋, moi c'est Gianni !
 
-<!--
-**giannloic16/giannloic16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en Licence Professionnelle en Systèmes et Réseaux Informatiques.
 
-Here are some ideas to get you started:
+Passionné par l'informatique, la maintenance du matériel informatiques, les réseaux informatiques et l'automatisation avec Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+💻 Intéressé par :
+- L'administration des systémes Linux et Windows.
+- La configuration et la sécurité des réseaux.
+- Le développement de scripts d'automatisation en Python.
+- Le dépannage réseau.
+
+
+🛠️ Technologies et outils
+
+- Langages : Python, Java, SQL, HTML, CSS.
+- Systèmes : Debian, Windows, Windows Server.
+- Réseaux : Cisco Packet Tracer.
+- Outils : GitHub, VMware, VirtualBox.
+
+
+📚 Actuellement en apprentissage
+
+- Python avancé et automatisation.
+- Administration des serveurs Linux.
+- Administration des réseaux informatiques.
+- Sécurité des systèmes et réseaux.
+
+🎯 Mon objectif
+
+Développer mes compétences techniques à travers des projets pratiques et contribuer à des projets informatiques.
+
+📫 Me contacter
+
+- LinkedIn : https://www.linkedin.com/in/s%C3%A9ny%C3%A9nyo-gianni-lo%C3%AFc-n-a0b8b4228/
+- Gmail    : gianniloic16@gmail.com
