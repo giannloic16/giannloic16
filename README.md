@@ -14,7 +14,7 @@ Passionné par l'informatique, la maintenance du matériel informatiques, les r�
 
 🛠️ Technologies et outils
 
-- Langages : Python, Java, SQL, HTML, CSS.
+- Langages : https://img.shields.io/badge/Python%20Programming%203776AB%20For%20the%20badge%20python%20white
 - Systèmes : Debian, Windows, Windows Server.
 - Réseaux : Cisco Packet Tracer.
 - Outils : GitHub, VMware, VirtualBox.
